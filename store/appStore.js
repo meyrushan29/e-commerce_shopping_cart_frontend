@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { create } from "zustand";
 import API from "./../utils/axios";
 import { toast } from "react-toastify";
